@@ -1,11 +1,12 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
+apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.example.android.eggtimernotifications"
+        applicationId "android.haferflocken.eggtimer"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978937416257",
+    "firebase_url": "https://eggtimer-73873.firebaseio.com",
+    "project_id": "eggtimer-73873",
+    "storage_bucket": "eggtimer-73873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978937416257:android:8626ed10d2fb764f0b54c0",
+        "android_client_info": {
+          "package_name": "android.haferflocken.eggtimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978937416257-5papdh0u4er4rcc63avqfk4ee7tlivi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4RpOu3mO7vWTTdJUHpYwbY4uJz1svq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978937416257-5papdh0u4er4rcc63avqfk4ee7tlivi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
